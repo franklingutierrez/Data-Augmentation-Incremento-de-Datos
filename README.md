@@ -1,10 +1,11 @@
 # Data-Augmentation-Incremento-de-Datos
 <aside>
-🔹**Autor:** Franklin Hiustong Gutierrez Arizaca.
-
-🔸**Docente:** Fred Torres Cruz.
  
-❤Maestría en Ciencias - Ingeniería en Ingeniería de Sistemas.
+🔹 **Autor:** Franklin Hiustong Gutierrez Arizaca.
+ 
+🔸 **Docente:** Fred Torres Cruz.
+ 
+❤ **Maestría en Ciencias - Ingeniería en Ingeniería de Sistemas.**
 </aside>
 
 Las técnicas de aumento de datos se utilizan para aumentar la cantidad de datos añadiendo copias ligeramente modificadas de datos ya existentes o datos sintéticos recién creados a partir de datos existentes. Actúa como un regularizador y ayuda a reducir el sobreajuste cuando se entrena un modelo de aprendizaje automático. También está estrechamente relacionado con el sobremuestreo.
